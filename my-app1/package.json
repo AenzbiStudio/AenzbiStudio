@@ -1,5 +1,5 @@
 {
-  "name": "my-app1",
+  "name": "aenzbistudio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,7 +23,7 @@
     "fs": "^0.0.1-security",
     "lucide-react": "^0.460.0",
     "monaco-editor": "^0.52.0",
-    "next": "14.2.16",
+    "next": "^14.2.16",
     "openai-edge": "^1.2.2",
     "path": "^0.12.7",
     "react": "^18",
@@ -48,5 +48,23 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "description": "powerful IDE to work in any platform",
+  "main": "main.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aenzbistudio/my-app1.git"
+  },
+  "keywords": [
+    "aenzbistudio"
+  ],
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aenzbistudio/my-app1/issues"
+  },
+  "homepage": "https://github.com/aenzbistudio/my-app1#readme"
 }
